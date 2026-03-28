@@ -1,0 +1,26 @@
+# Core AI Framework
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+
+# LLM Providers
+langchain-openai>=0.1.0
+langchain-ollama>=0.1.0
+openai>=1.0.0
+ollama>=0.1.0
+
+# Vector Database & Embeddings
+faiss-cpu>=1.7.4
+tiktoken>=0.5.0
+
+# Document Processing & Data
+pypdf>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# UI Framework
+streamlit>=1.30.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0

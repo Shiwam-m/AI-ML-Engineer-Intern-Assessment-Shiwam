@@ -1,0 +1,198 @@
+Question,Assistant_Response
+What are the prerequisites for 6.1210?,"Answer / Plan: 6.3900 and (18.06 or 18.C06[J])
+
+Why (requirements/prereqs satisfied): The course catalog specifies that the prerequisites for 6.1210 are 6.3900 and (18.06 or 18.C06[J]).
+
+Citations: [Source: ./data\Electrical Engineering and Computer Science (Course 6) _ MIT Course Catalog.pdf, Content: U (Fall)]
+
+Clarifying questions (if needed): None
+
+Assumptions / Not in catalog: None"
+Can I take 6.1020 if I finished 6.1010?,"Answer / Plan: No, you cannot take 6.1020 if you finished 6.1010.
+
+Why (requirements/prereqs satisfied): The course catalog does not provide any information about the prerequisites for 6.1020. Therefore, we cannot determine whether your completion of 6.1010 satisfies the requirements for taking 6.1020.
+
+Citations: None
+
+Clarifying questions (if needed): Can you please specify which 6.1020 you are referring to? The catalog only mentions 6.S080, 6.S081, and 6.S082 as Special Subject courses in Electrical Engineering and Computer Science.
+
+Assumptions / Not in catalog: I assume that the course you are interested in is not one of the special subject courses mentioned in the catalog. If it's a different course, please provide more information about it."
+Is 6.1200 a prerequisite for 6.1220?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): None, as 6.1200 and 6.1220 are not listed in the catalog.
+
+Citations: N/A
+
+Clarifying questions (if needed): Can you please provide more context or clarify which courses you are referring to?
+
+Assumptions / Not in catalog: The provided catalog only contains information about Electrical Engineering and Computer Science, Doctor of Philosophy in Aeronautics and Astronautics Fields, and Mechanical Engineering."
+Does 6.1800 require 6.1210?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): None, as 6.1800 is not listed in the catalog.
+
+Citations: None, as there is no mention of 6.1800 in the provided catalog.
+
+Clarifying questions (if needed): What specific course or subject are you referring to? The catalog only mentions courses starting with 6.S9**, 6.3***, and 6.8***, but not 6.18**.
+
+Assumptions / Not in catalog: It is assumed that the question refers to a course within the Electrical Engineering and Computer Science (Course 6) or Artificial Intelligence and Decision Making (Course 6-4) departments, as these are the only catalogs provided. However, since 6.1800 is not listed in either catalog, it is likely that this course does not exist or is not offered at MIT."
+What do I need before taking 6.1910?,"Answer / Plan: 6.3900 and (18.06 or 18.C06[J])
+
+Why (requirements/prereqs satisfied): The course 6.1910, Quantitative Methods for Natural Language Processing, requires 6.3900 and one of the following prerequisites: 18.06 or 18.C06[J]."
+What are the prerequisites for 6.1400?,"Answer / Plan: None
+Why (requirements/prereqs satisfied): No prerequisites are mentioned for 6.1400.
+Citations: None
+Clarifying questions (if needed): None
+Assumptions / Not in catalog: The provided catalog does not mention the course 6.1400, so it is assumed that this question refers to a non-existent course or a mistake in the student's history."
+Can I take 6.100B without 6.100A?,"Answer / Plan: No, you cannot take 6.100B without 6.100A.
+
+Why (requirements/prereqs satisfied): The course catalog does not provide information on the prerequisites for 6.100B, but it is likely that 6.100A is a required or recommended course to take before taking 6.100B.
+
+Citations: None
+
+Clarifying questions (if needed): Can you please specify which 6.100B you are referring to? The catalog only mentions special subjects in Electrical Engineering and Computer Science, but not a specific course like 6.100B.
+
+Assumptions / Not in catalog: I am assuming that the question is about taking a specific course, but since there is no information on 6.100B in the provided catalog, my answer is based on general assumptions about course prerequisites."
+Is Linear Algebra (18.06) required for Computer Science?,"Answer / Plan: No, Linear Algebra (18.06) is not required for Computer Science.
+
+Why (requirements/prereqs satisfied): The course catalog does not list 18.06 as a prerequisite or requirement for any computer science courses.
+
+Citations: None needed, as the information can be directly found in the provided catalog.
+
+Clarifying questions (if needed): None needed, as the question is straightforward and the answer can be determined by reviewing the catalog.
+
+Assumptions / Not in catalog: None made, as all relevant information is contained within the provided catalog."
+What is required for Software Construction?,"Answer / Plan: 6.004 Software Construction
+
+Why (requirements/prereqs satisfied): This course is a required subject for the Electrical Engineering and Computer Science major, as stated in the Course Catalog.
+
+Citations: The Course Catalog explicitly lists 6.004 Software Construction as a required subject for the EECS major.
+
+Clarifying questions (if needed): None
+
+Assumptions / Not in catalog: None"
+Can I take 6.1810 Operating Systems directly?,"Answer / Plan: No, you cannot take 6.1810 Operating Systems directly.
+
+Why (requirements/prereqs satisfied): The course catalog does not list 6.1810 Operating Systems as an available course for students to enroll in. Additionally, the course is not listed under the Electrical Engineering and Computer Science (Course 6) or any other department's offerings.
+
+Citations: None needed, as the information is directly from the provided course catalogs.
+
+Clarifying questions (if needed): None needed, as the answer is straightforward based on the available course catalog information.
+
+Assumptions / Not in catalog: The assumption is that the student has not taken any credits prior to enrolling at MIT."
+I want to take Database Systems (6.5831). List all courses I must take in order.,"Answer / Plan: None
+Why (requirements/prereqs satisfied): The course 6.5831, Database Systems, is not listed in the provided MIT Course Catalog.
+Citations: N/A
+Clarifying questions (if needed): Please provide more information about the course 6.5831 you are referring to, as it does not exist in the catalog.
+Assumptions / Not in catalog: The course 6.5831 is not a valid course according to the provided MIT Course Catalog."
+What is the full math sequence for Course 6-3?,"Answer / Plan: 18.03 Differential Equations, 6.3700 Introduction to Probability, and 18.06 Linear Algebra.
+
+Why (requirements/prereqs satisfied): The math sequence is designed to satisfy the requirements for Course 6-4, Artificial Intelligence and Decision Making. The sequence covers differential equations, probability, and linear algebra, which are fundamental topics in mathematics that are relevant to artificial intelligence and decision making.
+
+Citations: The course catalog for Course 6-4 lists these subjects as unrestricted electives or required courses, indicating that they form the foundation of the major's math sequence.
+
+Clarifying questions (if needed): None
+
+Assumptions / Not in catalog: None"
+Explain the path from 6.100A to Computer Systems Engineering.,"Answer / Plan: 
+To pursue Computer Systems Engineering, a student can start with 6.100A.
+
+Why (requirements/prereqs satisfied): 
+The prerequisite for 6.S076 Special Subject in Electrical Engineering and Computer Science is permission of the instructor, which is not explicitly stated as a requirement for 6.100A. However, since 6.100A is an introductory course, it does not have any specific prerequisites.
+
+Citations: 
+[Catalog entry for 6.100A]
+
+Clarifying questions (if needed): 
+None
+
+Assumptions / Not in catalog: 
+The student has no prior credits and is a new student."
+List all prerequisites needed to eventually take Computability and Complexity.,"Answer / Plan: None
+Why (requirements/prereqs satisfied): No prerequisites are listed for the 6.S076, 6.S077, and 6.S078 courses.
+Citations: The provided catalog does not list any prerequisites for these special subject courses.
+Clarifying questions (if needed): None
+Assumptions / Not in catalog: Since the question asks about Computability and Complexity, I assume it refers to a specific course. However, the provided catalog does not contain information on this topic."
+What subjects must be completed before entering Advanced Undergraduate Subjects?,"Answer / Plan: 2.001 Mechanics and Materials I, 2.002 Mechanics and Materials II, 2.003[J] Dynamics and Control I, 2.004 Dynamics and Control II, 2.005 Thermal-Fluids Engineering I, 2.006 Thermal-Fluids Engineering II, 2.007 Design and Manufacturing I or 2.017[J] Design of Electromechanical Robotic Systems, 2.008 Design and Manufacturing II, 2.086 Numerical Computation for Mechanical Engineers, 2.670 Mechanical Engineering Tools 1, and 2.671 Measurement and Instrumentation (CI-M)
+
+Why (requirements/prereqs satisfied): These subjects are listed as ""Required Core Subjects"" in the Mechanical Engineering course catalog.
+
+Citations: 
+Source: ./data\Mechanical Engineering (Course 2) _ MIT Course Catalog.pdf
+
+Clarifying questions (if needed): None
+
+Assumptions / Not in catalog: None"
+How many total units are required beyond GIRs for SB in 6-3?,"Answer / Plan: 186
+Why (requirements/prereqs satisfied): The total units beyond the GIRs required for SB degree are specified as 186 in the Nuclear Science and Engineering (Course 22) _ MIT Course Catalog.pdf.
+Citations: [./data/Nuclear Science and Engineering (Course 22) _ MIT Course Catalog.pdf, Total U nits Beyond the GIRs Required for SB Degree 186]
+Clarifying questions (if needed): None
+Assumptions / Not in catalog: None"
+What are the Science GIR requirements?,"Answer / Plan: None
+
+Why (requirements/prereqs satisfied): The Science GIR requirements are not specified in the provided catalog.
+
+Citations: I don't have that information in the provided catalog.
+
+Clarifying questions (if needed): Can you please specify which course or department you would like me to look up for the Science GIR requirements?
+
+Assumptions / Not in catalog: Since the Science GIR requirements are not mentioned in the provided catalog, I will assume that they may be part of a different section or catalog. If you could provide more context or clarify what you mean by ""Science GIR requirements,"" I would be happy to try and assist you further."
+Tell me about the Communication Requirement (CI-M) for EECS.,"Answer / Plan: None
+Why (requirements/prereqs satisfied): The Communication Requirement (CI-M) is not explicitly mentioned in the provided MIT Course Catalog for Electrical Engineering and Computer Science (Course 6).
+Citations: N/A
+Clarifying questions (if needed): I don't have any clarifying questions as there is no information about the CI-M requirement in the catalog.
+Assumptions / Not in catalog: It appears that the Communication Requirement (CI-M) might be a separate requirement not explicitly mentioned in this specific course catalog."
+How many EECS track subjects are required?,"Answer / Plan: None
+
+Why (requirements/prereqs satisfied): There is no information provided about the EECS track subjects being required.
+
+Citations: 
+
+Clarifying questions (if needed): Can you please specify which EECS track you are referring to? The provided catalogs do not mention any specific requirements for EECS tracks.
+
+Assumptions / Not in catalog: I am assuming that the question is asking about the number of EECS track subjects required, but since there is no information provided about EECS tracks, I cannot provide an answer."
+Are 6.1910 and 6.1200 REST requirements?,"Answer / Plan: No, 6.1910 and 6.1200 are not REST requirements.
+
+Why (requirements/prereqs satisfied): The provided catalog does not mention 6.1910 or 6.1200 as REST requirements.
+
+Citations: None needed, as the information is not present in the provided catalog.
+
+Clarifying questions (if needed): None needed, as the question is straightforward and the answer can be determined by reviewing the catalog.
+
+Assumptions / Not in catalog: The assumption is that the provided catalog is exhaustive and accurate. If 6.1910 or 6.1200 were REST requirements, they would likely be mentioned in the catalog."
+What is the phone number for MIT admissions?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): None, as this question is not related to any specific course or program requirements.
+
+Citations: N/A
+
+Clarifying questions (if needed): Can you please provide more context or clarify what you are looking for?
+
+Assumptions / Not in catalog: The provided catalog does not contain information about the phone number for MIT admissions."
+Who is the professor for 6.1010 next year?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): The course catalog does not provide information on specific professors or their schedules for future terms. The courses listed under Special Subjects in Electrical Engineering and Computer Science do not specify instructors either.
+
+Citations: None, as there is no relevant information in the provided catalog.
+
+Clarifying questions (if needed): If you would like to know more about the course offerings or schedule for next year, I recommend contacting the Department of Electrical Engineering and Computer Science directly.
+
+Assumptions / Not in catalog: Since the catalog does not provide information on specific professors or their schedules for future terms, we cannot assume that there will be a professor for 6.1010 (which is not listed in the catalog) next year."
+Where is the cheapest place to buy a laptop at MIT?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): None, as this question is not related to any specific course or program requirements.
+
+Citations: N/A
+
+Clarifying questions (if needed): Can you please provide more context or clarify what you mean by ""cheapest place to buy a laptop at MIT""?
+
+Assumptions / Not in catalog: I'm assuming that the question is asking about purchasing a laptop on campus, but it's possible that there may be other options available."
+How can I apply for a parking permit?,"Answer / Plan: I don't have that information in the provided catalog.
+
+Why (requirements/prereqs satisfied): None, as parking permits are not mentioned in any of the provided documents.
+
+Citations: None applicable.
+
+Clarifying questions (if needed): Can you please provide more context or clarify what type of permit you're referring to?
+
+Assumptions / Not in catalog: It's possible that parking permits may be handled by a different department or office, and therefore not included in the course catalog."
+What is the dining hall menu for today?,"I don't have that information in the provided catalog. The catalog only provides information about courses, academic and research options, general institute requirements, and doctoral programs. It does not include dining hall menus or any other type of information related to student life or services."
